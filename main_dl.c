@@ -3,10 +3,6 @@
 
 int main()
 {
-//10.   Create double linked list with methods to add, remove, to check the existence of element.
-
-
-
 	Slist s = slist_new();
 	Slist *list = &s;
 
